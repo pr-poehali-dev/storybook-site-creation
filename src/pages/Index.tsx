@@ -84,15 +84,12 @@ const Index = () => {
             </h1>
           </div>
           
-          <h2 className="text-5xl md:text-8xl font-bold text-gray-800 mb-8 leading-tight drop-shadow-lg">
-            🌟 Твоя сказка ждёт тебя! 🌟<br />
-            <span className="text-6xl md:text-9xl bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
-              Стань героем!
-            </span>
+          <h2 className="text-6xl md:text-9xl font-bold text-gray-800 mb-8 leading-tight">
+            Твоя сказка<br />ждёт тебя!
           </h2>
           
-          <p className="text-3xl md:text-5xl text-gray-800 mb-6 font-bold drop-shadow-md">
-            Каждая история — о тебе и твоих мечтах! ✨
+          <p className="text-3xl md:text-5xl text-gray-800 mb-6 font-bold">
+            Каждая история — о тебе и твоих мечтах!
           </p>
           
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
